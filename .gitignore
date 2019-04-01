@@ -1,0 +1,8 @@
+*.7z
+Makefile
+Makefile.*
+debug
+release
+.qmake.stash
+mocinclude.opt
+build_and_deploy.bat

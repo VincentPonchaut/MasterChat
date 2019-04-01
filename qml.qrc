@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        		<file>img/eye.svg</file>
+		<file>img/folder.svg</file>
+		<file>img/trash.svg</file>
+		<file>main.qml</file>
+		<file>qmlplayground_generated_main.qml</file>
+
+        <file>qtquickcontrols2.conf</file>
+        <file>appIcon.png</file>
+    </qresource>
+</RCC>
